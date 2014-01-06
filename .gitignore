@@ -216,3 +216,4 @@ pip-log.txt
 
 # Railo
 WEB-INF/
+.setup
