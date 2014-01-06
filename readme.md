@@ -1,0 +1,1 @@
+CFML allows you to template easily by embedding variable output, looping constructs, and flow control directly in HTML to produce dynamic views that aren't a pain to read and require no string concatenation. 
